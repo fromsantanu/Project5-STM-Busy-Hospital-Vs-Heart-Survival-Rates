@@ -20,7 +20,7 @@
 
 ## Description
 
-The program analyzes spread out of values in a data set around the mean (average) of that set. Low standard deviation suggests data points are consistently close to the mean, indicating reliability and predictability. High standard deviation suggests variability, indicating that the data points are spread out and less predictable.
+The program computes the correlation between number of surgeries conducted on heart and the survival rate of the patients there. This indicates that hospitals with greater experience with heart surgeries tend to provide greater confidence on suvival chances for their patients.
 
 Here blood pressure study of systolic readings of two individuals indicate that one is stable and other is heavily fluctuating causing greater risk of heart attack.
 
@@ -43,11 +43,13 @@ The data set is synthetically generated and used for demonstrating the concept o
 
 The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project1-STM-Blood-Pressure-Stability/blob/main/Project1-STM-Blood-Pressure-Stability.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project5-STM-Busy-Hospital-Vs-Heart-Survival-Rates/blob/main/Project5-STM-Busy-Hospital-Vs-Heart-Survival-Rates.ipynb)
 
 ## Screenshots
 
 ![Program Output](output.png)
+
+![Program Output](output2.png)
 
 ## Contribution
 
