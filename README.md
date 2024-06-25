@@ -20,9 +20,8 @@
 
 ## Description
 
-The program computes the correlation between number of surgeries conducted on heart and the survival rate of the patients there. This indicates that hospitals with greater experience with heart surgeries tend to provide greater confidence on suvival chances for their patients.
+The program computes the correlation between number of surgeries conducted on heart and the survival rate of the patients there. This indicates that hospitals with greater experience with heart surgeries tend to offer a greater chance of suvival chances to their patients.
 
-Here blood pressure study of systolic readings of two individuals indicate that one is stable and other is heavily fluctuating causing greater risk of heart attack.
 
 ## Video
 <!--
